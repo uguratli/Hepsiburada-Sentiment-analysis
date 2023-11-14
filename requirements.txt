@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.2
+chime==0.7.0
+matplotlib==3.7.1
+nltk==3.8.1
+numpy==1.26.2
+pandas==2.0.3
+progress==1.6
+Requests==2.31.0
+scikit_learn==1.2.2
+scikit_optimize==0.9.0
+seaborn==0.13.0
+snowballstemmer==2.2.0
