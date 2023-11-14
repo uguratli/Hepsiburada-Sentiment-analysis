@@ -5,7 +5,7 @@ from progress.bar import Bar
 from time import sleep
 
 """Comment Collector.
-Collects commens for given product urls in product_list.txt, 
+Collects comments for given product urls in product_list.txt, 
 comments are filtered by stars 1,2 and 4,5."""
 
 

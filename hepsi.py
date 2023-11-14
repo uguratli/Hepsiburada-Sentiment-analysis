@@ -5,8 +5,6 @@ import pandas as pd
 import numpy as np
 
 
-
-
 def make_request(url):
     """Request maker.
     Makes request for given url."""

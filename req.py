@@ -1,3 +1,4 @@
+"""Bunch of libraries."""
 import chime #Chime is a  library for sound alerts, makes things funnier. It is not necessary, but it is funny after all.
 chime.theme('pokemon')
 from preprocess import *

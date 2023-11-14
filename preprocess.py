@@ -26,7 +26,7 @@ def remove_digit(text):
     return text.translate(digit_pattern)
 
 def lower_it(text):
-    """
+    """Lowers characters in given string.
     Lowers all in string."""
     return text.lower()
 
