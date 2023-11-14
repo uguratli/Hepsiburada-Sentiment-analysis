@@ -35,7 +35,7 @@ The libraries for trainings are:
 
 ## Other files
 
-`requirements.txt`: List of libraries I used for this project.
-`product_list.txt`: List of product I chose to use for this project.
-`req.py`: List of imported libraries.
+* `requirements.txt`: List of libraries I used for this project.
+* `product_list.txt`: List of product I chose to use for this project.
+* `req.py`: List of imported libraries.
 
