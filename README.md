@@ -1,6 +1,6 @@
 # Sentiment Analysis on Hepsiburada
 
- Sentiment Analysis for TWS Headphones from Hepsiburada reviews. Procusts used for this work are listes in file named product_list.txt, dataset contains almost half of reviews of product and filtered by 1-2 and 4-5 stars to get maximun reviews. I can not share the dataset because I do not have the copyright, but I share the code that I used to collect reviews.
+ Sentiment Analysis for TWS Headphones from Hepsiburada reviews. Procusts used for this work are listed in file named product_list.txt, dataset contains almost half of the reviews of products and filtered by 1-2 and 4-5 stars to get maximun reviews. I can not share the dataset because I do not have the copyright, but I share the code that I used to collect reviews.
 
 ## Dataset Information
 
